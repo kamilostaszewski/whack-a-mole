@@ -1,0 +1,22 @@
+#points {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    font-size: 50px;
+}
+.kret {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+.restart {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 7px;
+    color:  red;
+}
